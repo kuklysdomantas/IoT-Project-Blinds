@@ -22,12 +22,12 @@ This project demonstrates a basic understanding of Internet of Things (IoT) conc
 
 ## Example of the System in Action (Video Proof)
 
-### Blynk app
+### Blynk App Control Demo
 
-https://github.com/user-attachments/assets/62e9c65f-ae1d-4c55-9d6f-5b2b79931daa
+https://github.com/user-attachments/assets/98d3ead5-71fb-4c4f-952f-b4d3423dbc66
 
-### Blynk website
+### Blynk Website Control Demo
 
-https://github.com/user-attachments/assets/3b6831de-4627-4112-afec-8292201ddea3
+https://github.com/user-attachments/assets/27c0f3ba-c7ae-414c-8741-dad5755b741a
 
 The code is given in the Blinds.ino file.
